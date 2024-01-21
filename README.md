@@ -2,7 +2,7 @@
 # Building Quora with Microservices in Java Spring Boot
 
 
-Micro-services can be developed, deployed, and scaled independently. This can improve the performance, reliability, and maintainability of the application.
+Micro-services can be developed, deployed, and scaled independently. This can improve the performance, reliability, and maintainability of the application
 
 For example, a Q&A platform like Quora can have services like User Service, Answer Service, Question Service, Search Service, and Recommendation Service, each service has a specific function and communicates with other services through well-defined interfaces making them independent of each other.
 
